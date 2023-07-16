@@ -1,7 +1,7 @@
 ---
 title: "Neuroplasticity"
 date: 2023-07-16T15:16:01-07:00
-draft: true
+draft: false
 ---
 
 ![Picsum](https://picsum.photos/1000/600)
